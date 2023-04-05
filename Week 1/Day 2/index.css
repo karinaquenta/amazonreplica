@@ -1,0 +1,14 @@
+.container{
+    background-color: blueviolet;
+    position:absolute;
+    height: 500px;
+}
+
+.box1-top-left{
+    bottom: 25px;
+    right: 25px;
+}
+.box2 bottom-right{
+    top: 25px;
+    left: 25px;   
+}

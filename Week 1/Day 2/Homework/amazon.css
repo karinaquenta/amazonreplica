@@ -1,0 +1,76 @@
+.container{
+    background-color: white;
+    display: center;
+    border: 1px solid lightgray;
+    width: fit-content;
+    padding: 20px;
+    margin: auto;
+    padding-top: 0px;
+    padding-left: 20px;
+}
+
+body, html{
+    height: 100%;
+    margin: 80px;
+}
+body{
+    margin: auto;
+} 
+
+nav li{
+    display: inline;
+    margin: auto;
+    padding: 20px;;
+    text-align: center;
+}
+
+.box{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.card{
+    margin: auto;
+}
+#continuebox{
+    background-color: rgba(247,197,72,255);
+    text-align: center;
+    width: 90%;
+    margin: 10px;
+    
+}
+
+.buttons{
+    width:90%;
+    length: 30%;
+    margin: 10px;
+}
+.out{
+    text-align: center;
+}
+
+.end{
+    text-align: center;
+}
+#new{
+    background-color: lightgray;
+    text-align: center;
+    width: 50%;
+    margin: 10px;
+}
+
+.otherlinks{
+    text-align: center;
+    text-decoration: none;
+}
+.helplink{
+    padding-top: 5px;
+    
+}
+.passwordarea{
+    display: contents;
+    
+}
+
+nav a{
+    text-decoration: none;
+}
